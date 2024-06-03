@@ -1,4 +1,0 @@
-# Hashing
-
-how to hash
-
